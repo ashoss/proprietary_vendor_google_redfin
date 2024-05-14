@@ -110,7 +110,6 @@ PRODUCT_PACKAGES += \
     EuiccGoogleOverlay \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
-    HbmSVManager \
     MyVerizonServices \
     OBDM_Permissions \
     RilConfigService \
